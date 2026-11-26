@@ -201,3 +201,5 @@ When the FastAPI server is running, the frontend seamlessly connects without com
 
 ## ⚖️ Legal & Professional Notice
 *This software implementation is inspired by the web design and practice areas of M S Kadam & Associates (Chartered Accountants, Pune) for client advisory and business consultancy web deployment.*
+#   A B S - C o n s u l t a n c y  
+ 
